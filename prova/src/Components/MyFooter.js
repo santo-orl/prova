@@ -4,7 +4,7 @@ import '../App.css';
 
 function MyFooter(){
     return(
-        <div> tmp</div>
+        <div> prova</div>
     );
 }
 export default MyFooter;
